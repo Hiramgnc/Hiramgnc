@@ -1,6 +1,6 @@
 # Hiramgnc
-<h1 align="center">Hola 👋, soy Hiram</h1>
-<h3 align="center">Un apasionado desarrollador full stack de Argentina</h3>
+<h1 align="center">Hola 👋, me llamo Hiram</h1>
+<h3 align="center">Soy de Argentina, apasionado por el mundo de la tecnologia y la programacion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiramgnc&label=Profile%20views&color=0e75b6&style=flat" alt="hiramgnc" /> </p>
 
