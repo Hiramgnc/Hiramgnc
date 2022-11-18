@@ -1,4 +1,3 @@
-# Hiramgnc
 <h1 align="center">Hola 👋, me llamo Hiram</h1>
 <h3 align="center">Soy de Argentina, apasionado por el mundo de la tecnologia y la programacion</h3>
 
