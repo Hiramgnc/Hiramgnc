@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiramgnc&label=Profile%20views&color=0e75b6&style=flat" alt="hiramgnc" /> </p>
 
-<img src="https://i.postimg.cc/HxzzKd91/Banner.png" alt="banner" />
+<img src="https://i.postimg.cc/C52fRxg0/Banner1.png" alt="banner" />
 
 - 🔭Hice este sitio completo [Recetas saludables](https://food-api-mu.vercel.app/)
 
@@ -14,8 +14,6 @@
 - 🌱 Actualmente estoy aprendiendo **MongoDb**
 
 - 📫Contactame **hiramgnc@hotmail.com**
-
-- 📄 Conoce mis experiencias [https://www.google.com.ar/cv](https://www.google.com.ar/cv)
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
