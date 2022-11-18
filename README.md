@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiramgnc&label=Profile%20views&color=0e75b6&style=flat" alt="hiramgnc" /> </p>
 
+<img src="https://i.postimg.cc/HxzzKd91/Banner.png" alt="banner" />
+
 - 🔭Hice este sitio completo [Recetas saludables](https://food-api-mu.vercel.app/)
 
 - 👯 Trabaje en equipo en el proyecto [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
