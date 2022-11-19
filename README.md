@@ -9,7 +9,7 @@
 
 - 👯 Trabaje en equipo en el proyecto [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
 
-- 👨‍💻Todos mis proyectos están disponibles en [Mi portfolio]([https://www.google.com.ar/potfolio](https://portfolio-gilt-phi-63.vercel.app/))
+- 👨‍💻Todos mis proyectos están disponibles en [Mi portfolio](https://portfolio-gilt-phi-63.vercel.app/)
 
 - 🌱 Actualmente estoy aprendiendo **MongoDb**
 
