@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Hiram</h1>
-<h3 align="center">Soy de Argentina, apasionado por el mundo de la tecnologia y la programacion</h3>
+<h3 align="center">Soy de Argentina, na persona con constante actitud positiva, autodidacta y sociable. La constante busqueda de mi desarrollo, me llevo a encontrar nuevos retos en el mundo tech, formándome y encontrando pasión principalmente en tecnologías como React, Redux, JavaScrip y Node Js. Aprendí estos conocimientos cursando la carrera de Full Stack Developer del bootcamp de Henry, donde complete dos grandes proyectos, uno individual y otro muy enriquecedor trabajando en equipo. Mi larga experiencia en el mundo comercial desarrollo mis habilidades blandas de trabajo de equipo, liderazgo, comunicación, resolución de problemas y orientación a resultados. Quiero conocer mas este mundo y estoy en constante formación pero me siento preparado para afrontar nuevos desafios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiramgnc&label=Profile%20views&color=0e75b6&style=flat" alt="hiramgnc" /> </p>
 
