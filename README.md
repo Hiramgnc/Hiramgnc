@@ -6,7 +6,7 @@
 
 <img src="https://i.postimg.cc/C52fRxg0/Banner1.png" alt="banner" />
 
-- 🔭Hice este sitio completo [Recetas saludables](https://food-api-mu.vercel.app/)
+- 🔭Hice este sitio completo [Recetas saludables](https://food-red-delta.vercel.app/)
 
 - 👯 Trabaje en equipo en el proyecto [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
 
